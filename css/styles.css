@@ -1,0 +1,23 @@
+/* CSS Code */
+body {
+    background-color: #DAD5CA;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    color: #F8F9FA;
+    
+}
+h3 {
+    color: #F8F9FA;
+}
+hr {
+    /* background-color: #FFFCFA;
+    border-style: none;
+    height: 1px;
+    width: 30%; */
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #FFFCFA;
+    border-width: 5px;
+    width: 5%;
+}
